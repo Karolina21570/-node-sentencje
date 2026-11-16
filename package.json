@@ -1,0 +1,14 @@
+{
+  "name": "sentencje",
+  "version": "1.0.0",
+  "description": "Strona do generowania cutatów",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Karolina Tyszko",
+  "license": "ISC",
+  "type": "module"
+}
